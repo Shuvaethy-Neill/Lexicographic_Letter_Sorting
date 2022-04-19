@@ -1,4 +1,4 @@
-/*Assignmnent 2 - Shuvaethy Neill 101143478*/
+/* Shuvaethy Neill */
 
 #define LIST_SIZE 7
 #define NUM_CHILD_PROCESS 3
