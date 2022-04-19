@@ -1,4 +1,4 @@
-/*Assignment 2 SYSC 4001 - Shuvaethy Neill 101143478*/
+/* Shuvaethy Neill */
 
 #include <unistd.h>
 #include <stdlib.h>
