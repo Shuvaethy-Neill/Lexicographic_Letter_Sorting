@@ -1,5 +1,5 @@
 # Lexicographic_Letter_Sorting
-**Concurrent processes using Linux semaphores and shared memory!**
+**Concurrent program using Linux semaphores and shared memory!**
 
 --------------------------------------------
 DESCRIPTION
